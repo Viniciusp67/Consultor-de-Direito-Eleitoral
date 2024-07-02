@@ -1,1 +1,1 @@
-Modelos para Analise e previsao financeira de criptomoedas(LTSM, GRU)
+Modelos para Analise e previsao financeira de criptomoedas(LSTM, GRU)
